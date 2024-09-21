@@ -1,0 +1,61 @@
+name,address,rating,user_ratings_total,price_level,business_status,lat,lng,open_now
+Alcampo,"La Goteta, Avenida de Denia, s/n, Alicante (Alacant)",4.1,1855.0,,OPERATIONAL,38.3552945,-0.4717725,True
+Carrefour Express,"Plaça de l'Ajuntament, 2, Alacant",3.9,555.0,,OPERATIONAL,38.34515529999999,-0.4808775,True
+Carrefour Express,"Plaza Gabriel Miró, 4, Alicante (Alacant)",3.9,1071.0,,OPERATIONAL,38.3429739,-0.4847612000000001,True
+Supercor Exprés,"Calle Díaz Moreu, 4, Alicante (Alacant)",3.9,377.0,,OPERATIONAL,38.3479275,-0.484469,True
+Carrefour Express,"Carrer Calderón de la Barca, 8, Alacant",4.0,234.0,,OPERATIONAL,38.3487178,-0.485846,True
+JUAN GARCIA GALERA S.L.,"Calle San Fernando, 52, BJ, Alacant",3.3,3.0,,OPERATIONAL,38.34238,-0.4868699999999999,N/A
+Mercadona,"Calle de Álvarez Sereix, 5, Alicante (Alacant)",4.2,3342.0,,OPERATIONAL,38.3454071,-0.4890876999999999,True
+Gourmet Experience Alicante,"Avenida de Federico Soto, 1, y 3, Alicante (Alacant)",4.2,745.0,,OPERATIONAL,38.343926,-0.489377,True
+Mercadona,"Carrer Calderón de la Barca, 39, Alacant",4.2,2525.0,,OPERATIONAL,38.350478,-0.4861672,True
+Supermercado masymas basic,"Carrer Alemania, 7, Alacant",4.2,205.0,,OPERATIONAL,38.3411936,-0.4886679999999999,True
+Supermercado Dialprix,"Carrer Alemania, 37, Alacant",3.4,54.0,,OPERATIONAL,38.3431512,-0.4900416,True
+Supermercats Coviran,"Calle de la Virgen del Socorro, 77, Alicante (Alacant)",4.2,90.0,,OPERATIONAL,38.3499679,-0.4743138,True
+Supermercado Unide Market,"Avinguda Benito Perez Galdos, 49, Alacant",4.1,359.0,,OPERATIONAL,38.3470289,-0.4935192,True
+Mercadona,"Calle Reyes Católicos, 51, Alicante (Alacant)",4.1,2181.0,,CLOSED_TEMPORARILY,38.34144419999999,-0.492358,N/A
+Herbolario Navarro - Alicante Avenida de la Estación,"Avenida de la Estación, 21, Alicante (Alacant)",4.4,486.0,,OPERATIONAL,38.3446894,-0.4936048999999999,True
+Telecor S A,"Avenida Maisonnave, 53, Alicante (Alacant)",3.8,119.0,,OPERATIONAL,38.34303459999999,-0.4934513,True
+Carrefour Express,"Avinguda Eusebi Sempere, 9, Alacant",3.7,231.0,,OPERATIONAL,38.33891989999999,-0.4917775999999999,True
+Mercadona,"Calle del Doctor Ayela, 7, Alicante (Alacant)",4.2,3058.0,,OPERATIONAL,38.355536,-0.4784606999999999,True
+Supermercado Dialprix,"Isabel La Católica, 9, Benalúa",3.3,29.0,,OPERATIONAL,38.3419177,-0.4952795,True
+Supermercado Dialprix,"Carrer Pintor Gisbert, 9, Alacant",3.9,97.0,,OPERATIONAL,38.34804019999999,-0.4954248,True
+Supermercado Spar,"Avenida del Padre Esplá, 27, Alicante (Alacant)",3.9,291.0,,OPERATIONAL,38.3565403,-0.4776278999999999,True
+Supermercat Dia,"Carrer Pintor Gisbert, 23, Alacant",3.9,248.0,,OPERATIONAL,38.34793289999999,-0.4959839999999999,True
+Supermercado Dialprix,"Carrer Garbinet, 41, Alacant",4.1,34.0,,OPERATIONAL,38.3574006,-0.4812005999999999,True
+Supermercado Spar,"Calle Montero Ríos, 1, 3-5-7, Alicante (Alacant)",4.6,286.0,,OPERATIONAL,38.35756249999999,-0.4823896,True
+Quality Supermercats,"Avenida de los Condes de Soto Ameno, 40, Alicante (Alacant)",4.6,147.0,,OPERATIONAL,38.3500701,-0.4958937999999999,False
+Carrefour Express EESS,"Avinguda de Dénia, 60, Alacant",3.9,65.0,,OPERATIONAL,38.35557349999999,-0.4718900999999999,True
+Supermercado Dialprix,"Calle Francisco Carratalá Cernuda, 26, Alicante (Alacant)",3.8,30.0,,OPERATIONAL,38.3576233,-0.487299,False
+Gnomo,"Calle del Médico Pascual Pérez, 13, Alicante (Alacant)",5.0,5.0,,OPERATIONAL,38.34626670000001,-0.4867689000000001,False
+super market 888,"Carrer Gravina, 6, Alacant",3.1,15.0,,OPERATIONAL,38.3448822,-0.4806853,True
+CITY MARKET,"Avinguda Juan Bautista Lafora, 1, Alacant",2.9,51.0,,OPERATIONAL,38.3448463,-0.4799945999999999,True
+Solbriller,"Calle San Telmo, 3, Alicante (Alacant)",,,,OPERATIONAL,38.3449695,-0.4797838,N/A
+seleven sharjeel alimentación,"Calle Ingeniero Lafarga, 2, Alicante (Alacant)",5.0,2.0,,OPERATIONAL,38.34406999999999,-0.4818799999999999,True
+UDACO NAGUI,"n, Calle Jorge Juan, 10, Alicante (Alacant)",4.2,22.0,,OPERATIONAL,38.345674,-0.4798829999999999,True
+Supermercado Spar City,"Calle Bendicho, 5, Alicante (Alacant)",3.6,129.0,,OPERATIONAL,38.345169,-0.4795566000000001,True
+Deshoras,"Avinguda Juan Bautista Lafora, 6, Alacant",3.8,47.0,,OPERATIONAL,38.3452904,-0.4791694999999999,True
+Supermercado MIRÓ,"Miró Super Market, Carrer Castaños, 6, local, Alacant",5.0,42.0,,OPERATIONAL,38.3442725,-0.484882,True
+Maxikiosco 24hs,"Plaça Ruperto Chapí, 4, Alacant",,,,OPERATIONAL,38.3460448,-0.4853427,True
+Mini Market Mediterraneo,"Calle Bazán, 20, Alicante (Alacant)",5.0,7.0,,OPERATIONAL,38.34515279999999,-0.4859016,True
+Supermercado Spar City,"Carrer Navas, 45, Alacant",4.4,77.0,,OPERATIONAL,38.3465047,-0.4877085,True
+UDACO,"Calle de la Virgen del Socorro, 35, Alicante (Alacant)",4.3,38.0,,OPERATIONAL,38.34823009999999,-0.4752927,False
+Supermercado UDACO,"Calle San Vicente, 35, Alicante (Alacant)",4.1,81.0,,OPERATIONAL,38.349802,-0.4849263999999999,True
+"UDACO Alimentación y cafetería Moon Av. de Ramón y Cajal, 3, 03001 Alicante (Alacant), Alicante","Avenida de Ramón y Cajal, 3, Alicante (Alacant)",2.5,8.0,,OPERATIONAL,38.3417242,-0.4869403,True
+bioTrèmol Alicante - Supermercado Ecológico Cooperativo - Organic Food,"Carrer Poeta Campos Vasallo, 12, Alacant",4.3,6.0,,OPERATIONAL,38.3478537,-0.4874567,False
+Chipolas - Chuches - Regalos personalizados - Golosinas - Bebidas,"Calle San Vicente, 39, Alicante (Alacant)",4.9,45.0,,OPERATIONAL,38.3501049,-0.4849325,True
+Supermercado productos latino,"Calle Pablo Iglesias, 1, Alicante (Alacant)",4.2,30.0,,OPERATIONAL,38.3473117,-0.4880522999999999,True
+Supermercado M nadeem,Alicante,5.0,2.0,,OPERATIONAL,38.3473231,-0.4880823,True
+seleven alimentacion y bebida,"Carrer Poeta Quintana, 9 Iz, Alacant",4.0,8.0,,OPERATIONAL,38.34822339999999,-0.4876041999999999,True
+Supermercado Gourmedian,"Avenida Alfonso El Sabio, 35, Alicante (Alacant)",4.0,22.0,,OPERATIONAL,38.34651579999999,-0.4888581,True
+Supermercado Toda Familia Express,"Avenida del Doctor Gadea, Alicante (Alacant)",4.3,44.0,,OPERATIONAL,38.3424808,-0.4884324,True
+Unión Castellana de Alimentación S.A.,"Calle Madrid, 0, Alicante (Alacant)",,,,OPERATIONAL,38.34882339999999,-0.4742073000000001,True
+Supermercado El Corte Inglés,"PB - Supermercado, Alacant",4.6,80.0,,OPERATIONAL,38.343825,-0.489802,True
+TEPEMOK,"Calle José Gutiérrez Petén, 45, Alicante (Alacant)",5.0,1.0,,OPERATIONAL,38.3497174,-0.4878974,True
+Mercat Ibiza,Alicante,,,,CLOSED_TEMPORARILY,38.3484907,-0.4891765,N/A
+La Botiga Del Raval,"Calle de la Virgen del Socorro, 77, Alicante (Alacant)",,,,OPERATIONAL,38.34996389999999,-0.4743183,True
+Sellés Supermercat,"Plaza Músico Óscar Tordera Iñesta, 4, Alicante (Alacant)",4.9,20.0,,OPERATIONAL,38.3490886,-0.4889356999999999,True
+Supermercado Wenzhou,"2º, Carrer Italia, 15, Alacant",4.5,640.0,,OPERATIONAL,38.3411969,-0.4891872999999999,True
+Supermercado Nimasnimenos,"Calle Belando, 26, Alicante (Alacant)",4.6,57.0,,OPERATIONAL,38.3483276,-0.4896097,True
+PEPCO,"Calle Reyes Católicos, 29, Alicante (Alacant)",4.3,2647.0,,OPERATIONAL,38.34202330000001,-0.4907614,True
+Seleven Sharjeel alimentación,"Calle Padre Mariana, 46, Alicante (Alacant)",5.0,4.0,,OPERATIONAL,38.3514116,-0.4878071,True
+SUPERMARKET ALCALDE ALFONSO ROJAS,"Calle del Alcalde Alfonso de Rojas, 6, Alicante (Alacant)",4.8,15.0,,OPERATIONAL,38.3521332,-0.4867078999999999,True

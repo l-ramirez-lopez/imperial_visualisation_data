@@ -1,0 +1,61 @@
+name,address,rating,user_ratings_total,price_level,business_status,lat,lng,open_now
+Hipercor Arabial,"Arabial, 97, Granada",4.1,7690.0,,OPERATIONAL,37.17892559999999,-3.6130961,True
+Carrefour Market,"Avenida de la Constitución, 24, Granada",4.0,1035.0,,OPERATIONAL,37.1857564,-3.6063276,True
+Carrefour Express,"Calle Tablas, 14, Granada",4.1,394.0,,OPERATIONAL,37.17592500000001,-3.603485999999999,True
+Coviran,"Calle Molinos, 7, Granada",4.1,94.0,,OPERATIONAL,37.1732339,-3.5929799,False
+Covirán,"Ancha de Gracia, 5, Granada",4.3,148.0,,OPERATIONAL,37.17182879999999,-3.6053165,True
+Supermercado Covirán,"Calle Gran Capitán, 17, Granada",4.1,138.0,,OPERATIONAL,37.1779457,-3.6044814,True
+Supermercados Dia,"Calle Carril del Picón, 9, Granada",4.0,449.0,,OPERATIONAL,37.1767934,-3.6055538,True
+Tu Super Ribera,"Calle Ribera del Genil, 9, Granada",3.8,110.0,,OPERATIONAL,37.1669936,-3.6001601,True
+Carrefour Express,"Calle San Juan de Dios, 24, Granada",4.0,454.0,,OPERATIONAL,37.18078,-3.60254,True
+Coviran,"Calle Agustina de Aragón, 22, Granada",4.2,205.0,,OPERATIONAL,37.166988,-3.6031539,True
+Mercadona,"Camino de Ronda, 43, Granada",4.1,2185.0,,OPERATIONAL,37.16732620000001,-3.604823,True
+Supermercado Coviran Rodríguez Acosta,"Calle Pintor Rodríguez Acosta, 6, Granada",4.7,48.0,,OPERATIONAL,37.177758,-3.608536900000001,True
+Supermercados Dia,"Camino de Ronda, 109, Granada",4.0,373.0,,OPERATIONAL,37.1759642,-3.609705100000001,True
+Supermercado Coviran Rueda,"Calle Doctor Severo Ochoa, 13, Granada",4.3,159.0,,OPERATIONAL,37.1817929,-3.6055957,True
+Supermercado Coviran,"Calle Agua del Albayzín, 2, Granada",3.8,45.0,,OPERATIONAL,37.182754,-3.5934366,False
+Carrefour Express EESS,"Camino de Ronda, 117, Granada",3.8,46.0,,OPERATIONAL,37.1775151,-3.610643000000001,True
+Mercadona,"Calle Ancha de Capuchinos, 15, Granada",4.0,2267.0,,OPERATIONAL,37.1860519,-3.6030971,True
+Carrefour Express,"Plaza de los Campos, 4, Granada",4.0,540.0,,OPERATIONAL,37.17229489999999,-3.5956983,True
+CARREFOUR EXPRESS EMPERATRIZ EUGENIA - GRANADA,"Calle Emperatriz Eugenia, 12, Granada",3.9,321.0,,OPERATIONAL,37.1759107,-3.607188399999999,True
+Mercadona,"Av. America, s/n, Calle Fontiveros, 46, Granada",4.1,2000.0,,OPERATIONAL,37.1611388,-3.5965002,True
+Mercadona,"Calle Acera del Darro, 98, Granada",4.1,3806.0,,OPERATIONAL,37.16842889999999,-3.5968087,True
+COVIRAN,"Carretera de la Sierra, 30, Granada",4.3,178.0,,OPERATIONAL,37.16632399999999,-3.5850821,False
+Supermercado Carrefour Express,"Avenida de Barcelona, 13, Granada",4.2,315.0,,OPERATIONAL,37.1609846,-3.601052000000001,True
+Con Sumo Cuidado,"Calle Madre Riquelme, 1, Granada",4.7,67.0,,OPERATIONAL,37.178573,-3.6076795,False
+SuperPríncipe,"Calle Molinos, 7, Granada",4.0,66.0,,OPERATIONAL,37.1732976,-3.5930545,False
+Supermercados Dia,"Calle Poeta Manuel de Góngora, 12, Granada",3.8,308.0,,OPERATIONAL,37.16570420000001,-3.594707800000001,True
+Carrefour Express,"Calle Ángel Ganivet, 5, Granada",4.1,142.0,,OPERATIONAL,37.1733613,-3.5985401,True
+Carrefour Express,"Calle Alhóndiga, 6, Granada",4.4,192.0,,OPERATIONAL,37.1739188,-3.6006107,True
+EROSKI,"Calle Pavaneras, 5, Granada",3.7,241.0,,OPERATIONAL,37.1753,-3.5960063,True
+Coviran,"Calle Moral de la Magdalena, 3, Granada",4.0,161.0,,OPERATIONAL,37.1737808,-3.6022111,False
+Carrefour Express,"Calle Gran Vía de Colón, Nº11, Granada",3.9,844.0,,OPERATIONAL,37.17710249999999,-3.5984329,True
+MARKET PLAZA NUEVA,"Calle Hermosa, 7, Granada",4.3,2420.0,,OPERATIONAL,37.17667429999999,-3.596562600000001,True
+"Terra Market. Productos Limpieza, Higiene Y Alimentación A Granel Y Sin Plástico. Ecológicos.","Calle Cruz, 18, Granada",4.9,133.0,,OPERATIONAL,37.1733953,-3.6022624,False
+Mini Market,"Plaza Nueva, 15, Granada",4.2,10.0,,OPERATIONAL,37.1765206,-3.5960416,True
+Super express,"Calle Elvira, 11, 13, Granada",2.9,8.0,,OPERATIONAL,37.1771824,-3.597004899999999,True
+Market Plaza La Trinidad,"Plaza de la Trinidad, Granada",4.1,28.0,,OPERATIONAL,37.1764592,-3.6015408,True
+Supermercado El Corte Ingles,"Carrera de la Virgen, 22, Granada",4.3,656.0,,OPERATIONAL,37.17059199999999,-3.597568,True
+Carrefour Express,"Calle Nueva de San Antón, 16, Granada",4.1,329.0,,OPERATIONAL,37.17098319999999,-3.600927200000001,True
+Buendía market,"Plaza del Realejo, 4, Granada",4.8,20.0,,OPERATIONAL,37.1735599,-3.5938125,True
+Coviran Supermercado,"Calle Elvira, 52, Granada",3.9,606.0,,OPERATIONAL,37.1785482,-3.598148000000001,True
+Supermercado Coviran,"Calle San Miguel Alta, 27, Granada",3.9,18.0,,OPERATIONAL,37.1742353,-3.6043182,False
+Covirán,"Calle San Antón, 67, Granada",4.2,64.0,,OPERATIONAL,37.16957050000001,-3.5994953,True
+Supermarkets AMA / Coviran,"Plaza de la Universidad, 2 (Entrada por, Calle San Jerónimo, Granada",3.9,110.0,,OPERATIONAL,37.1782486,-3.6013042,False
+COVIRAN QUESADA,"Calle Concepción, 52, Granada",4.9,8.0,,OPERATIONAL,37.1703349,-3.594991799999999,False
+Anquelo Super Quesada S.L.,"Calle Maestro Alonso, Granada",,,,OPERATIONAL,37.16991589999999,-3.595448299999999,False
+SUPER KEDI,"Calle San Antón, 71, Granada",3.7,33.0,,OPERATIONAL,37.1692346,-3.5994283,True
+Paco Alimentación y Fruta,"Calle Martínez Campos, 4, Granada",4.0,2.0,,OPERATIONAL,37.1705354,-3.603020399999999,False
+Dehoy Supermercados Coviran - Tejeiro,"Calle Tejeiro, 12, Granada",4.2,190.0,,OPERATIONAL,37.17011559999999,-3.6029911,True
+Supermercados Dia,"Calle Martínez Campos, 11, Granada",3.8,268.0,,OPERATIONAL,37.17087490000001,-3.603930999999999,True
+GRANADA,"Plaza General Emilio Herrera, 3, 1oc, Granada",,,,OPERATIONAL,37.1682932,-3.598168099999999,N/A
+El Ecosúper SCA,"Calle Molinos, 52, B, Granada",4.7,83.0,,OPERATIONAL,37.1718056,-3.5916675,False
+Leathermarket Court 53,"Calle Carril del Picón, 24, 26, Granada",,,,OPERATIONAL,37.1768919,-3.6052594,N/A
+Supermercados El Jamón,"Calle Alhamar, 31, Granada",4.3,80.0,,OPERATIONAL,37.16893639999999,-3.602521999999999,True
+Carrefour Express,"Calle San Anton, Calle Agustina de Aragón, 70, Entrada por, Granada",4.2,81.0,,OPERATIONAL,37.1680275,-3.5993368,True
+Carrefour Express,"Calle Pedro Antonio de Alarcón, 40, Granada",4.1,443.0,,OPERATIONAL,37.1727718,-3.6060741,True
+Suma Supermercados,"Calle Pedro Antonio de Alarcón, 21, Granada",5.0,10.0,,OPERATIONAL,37.1710531,-3.6053341,True
+Suma Tu Super Pedro Antonio,"Calle Pedro Antonio de Alarcón, 23, Granada",4.3,50.0,,OPERATIONAL,37.1710424,-3.6053304,True
+Supermercados Dani - Pedro Antonio,"Calle Pedro Antonio de Alarcón, 40, Granada",3.8,302.0,,OPERATIONAL,37.17330320000001,-3.6065272,False
+La Talega - Andalucia Slow Food,"Placeta de San Miguel Bajo, 9, Granada",4.9,48.0,,OPERATIONAL,37.1804589,-3.5966981,False
+Fotocopias,"Ancha de Gracia, 88, Granada",,,,OPERATIONAL,37.1713098,-3.606279700000001,N/A

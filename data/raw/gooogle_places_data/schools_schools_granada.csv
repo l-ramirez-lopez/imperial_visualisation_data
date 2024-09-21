@@ -1,0 +1,61 @@
+name,address,rating,user_ratings_total,price_level,business_status,lat,lng,open_now
+Colegio Nuestra Señora de las Mercedes Granada,"Calle Sta. Escolástica, 6, Granada",4.8,163,,OPERATIONAL,37.1742063,-3.5952608,False
+Colegio Mayor Santo Domingo,"Pl. de Sto. Domingo, 4, Granada",4.4,14,,OPERATIONAL,37.1733549,-3.5945487,True
+Our Lady of Sorrows School,"C. Acera del Darro, 17, Granada",4.6,46,,OPERATIONAL,37.1706712,-3.5980087,N/A
+CEIP San José,"C. Tablas, 13, Granada",4.2,42,,OPERATIONAL,37.1758548,-3.6033062,False
+Colegio Vocacional San Fernando,"Pl. de Gracia, 5, Granada",4.7,14,,OPERATIONAL,37.1728563,-3.6050034,False
+Diocesan College International Virgen de Gracia,"C. Músico Vicente Zarzo, Granada",3.1,71,,OPERATIONAL,37.1724637,-3.6057037,False
+Public school Genil,"C. San Antón, 87, Granada",3.9,18,,OPERATIONAL,37.1680615,-3.5980437,False
+Colegio Marista La Inmaculada Granada,"C. Sócrates, 8, Granada",4.3,44,,OPERATIONAL,37.1756195,-3.605936599999999,False
+Colegio Nuestra Señora Del Rosario,"C. Santiago, 36, Granada",4.4,17,,OPERATIONAL,37.171074,-3.591931,False
+College La Presentation of Granada,"C. Gran Capitán, 14, Granada",4.7,100,,OPERATIONAL,37.1780332,-3.6046565,False
+Public school José Hurtado,"C. Molinos, 55, Granada",4.7,23,,OPERATIONAL,37.1716892,-3.5909297,False
+Colegio Escolapios Granada Genil - Dulce Nombre de María,"P.º de los Basilios, 2, Granada",4.9,86,,OPERATIONAL,37.1684662,-3.5944217,N/A
+Colegio Sagrado Corazón de Granada,"P.º de los Basilios, 3, Granada",4.7,97,,OPERATIONAL,37.1683011,-3.592887699999999,False
+Colegio Privado de Educación Especial San Rafael,"C/ San Juan de Dios, 19, Granada",4.9,12,,OPERATIONAL,37.180842,-3.6027049,False
+Centro Concertado De Enseñanza La Asunción,"C. Martínez de la Rosa, 5, Granada",4.3,55,,OPERATIONAL,37.1769346,-3.607276799999999,N/A
+Centro Privado De Enseñanza Ave María Vistillas,"C. Molinos, 63, Granada",4.1,11,,OPERATIONAL,37.1715477,-3.5895071,N/A
+Colegio Público Gómez Moreno,"Cjón. de las Campanas, 7, Granada",4.7,6,,OPERATIONAL,37.1816062,-3.5936361,False
+Colegio de Santo Domingo de Vistillas,"C. Vistillas de los Ángeles, 1, Granada",4.3,30,,OPERATIONAL,37.1703949,-3.5882775,False
+Regina Mundi College,"Arabial, 63, Granada",4.2,72,,OPERATIONAL,37.174289,-3.610084,False
+Colegio Sagrada Familia Pureza de María. Granada,"Calle Sta. Bárbara, 14, Granada",4.5,106,,OPERATIONAL,37.1823753,-3.6043801,False
+Colegio Mayor Santa Cruz la Real,"Pl. de Sto. Domingo, 6, Granada",4.2,61,,OPERATIONAL,37.1729584,-3.5950775,N/A
+Real Colegio Mayor San Bartolomé and Santiago,"C. San Jerónimo, 31, Granada",4.4,45,,OPERATIONAL,37.1789799,-3.601915399999999,True
+Public School Professor Tierno Galván,"C. Agustina de Aragón, 2, Granada",4.2,22,,OPERATIONAL,37.1678388,-3.600014499999999,False
+Franciscanos Frailes Menores Prov Granada,"Cam. de Rda., 65, Granada",5.0,2,,OPERATIONAL,37.1697422,-3.605781599999999,N/A
+Public School Inmaculada de Triomphe,"Av. Capitán Moreno, 7, Granada",4.4,29,,OPERATIONAL,37.183631,-3.6008825,N/A
+CEIP Parque de las Infantas,"Av. de Dílar, S/N, Granada",4.5,17,,OPERATIONAL,37.164078,-3.5985232,N/A
+Colegio San Isidoro,"Calle Prof. Luis Molina Gómez, 1, Granada",4.5,122,,OPERATIONAL,37.1751112,-3.611262399999999,False
+Hail Mary Motherhouse,"Cta. del Chapiz, 3, Granada",4.5,61,,OPERATIONAL,37.1804644,-3.588523,False
+SAN CRISTOBAL AVE MARIA SCHOOL,"Ctra. de Murcia, 51, Granada",4.5,48,,OPERATIONAL,37.1840877,-3.5957091,False
+Ave Maria College of the Fifth,"Av. de Cervantes, 4, Granada",4.0,25,,OPERATIONAL,37.1657271,-3.5898983,False
+Colegio Cristo Rey,"Calle San Gregorio Alto, 5, Granada",4.4,30,,OPERATIONAL,37.1842549,-3.5933762,False
+Public School Luis Rosales,"C. Rector Marín Ocete, s/n, Granada",5.0,15,,OPERATIONAL,37.1833996,-3.6061808,N/A
+College of Education and Primary Jardin de la Reina,"Av. del Mediterráneo, 5, Granada",4.4,15,,OPERATIONAL,37.1635703,-3.6041318,N/A
+Colegio Caja General de Ahorros de Granada,"Av. de América, 1, Granada",4.2,64,,OPERATIONAL,37.1621906,-3.6006084,False
+Jesuitinas Santa María. Granada.,"C. Virgen Blanca, 25, Granada",3.9,68,,OPERATIONAL,37.1698805,-3.6130304,False
+CEIP Sierra Elvira,"C. Virgen Blanca, 27, Granada",4.9,31,,OPERATIONAL,37.1706682,-3.6136463,False
+Divine Master School,"C. Cruz de Piedra del Albaicín, 2, Granada",4.5,22,,OPERATIONAL,37.1858017,-3.591562,False
+Colegio Jesus-María Cristo de la Yedra Granada,"P.º de Cartuja, 2, Granada",4.2,30,,OPERATIONAL,37.18832889999999,-3.5997307,False
+Colegio Santo Tomas De Villanueva,"C. Santo Tomás de Villanueva, 17, Granada",3.8,51,,OPERATIONAL,37.1799312,-3.6152673,False
+Public school Cármenes,"C. Virgen del Pilar, 1, Granada",4.6,14,,OPERATIONAL,37.1883567,-3.6044245,False
+Centro Docente Privado Alhamar,"C. Sta. Teresa, 9, Granada",0.0,0,,OPERATIONAL,37.1757967,-3.602397,N/A
+"Colegio Oficial de Gestores Administrativos de Granada, Jaén y Almería","C. Frailes, 30, Granada",5.0,5,,OPERATIONAL,37.1717583,-3.601934299999999,False
+Center for Continuing Education San Matías,"C. Castañeda, 23, Granada",4.5,8,,OPERATIONAL,37.1709468,-3.5954154,N/A
+"Colegio Oficial de Doctores y Licenciados En Filosofía, Letras y Ciencias de Granada, Almería y Jaén","C. Gral. Narváez, 1, Granada",5.0,1,,OPERATIONAL,37.1717817,-3.6034797,False
+Centro Infantil Nazaret,"C. Obispo Hurtado, 6, Granada",3.0,4,,OPERATIONAL,37.1749622,-3.6052397,False
+Siervas Del Evangelio,"C. Obispo Hurtado, 6, Granada",3.7,3,,OPERATIONAL,37.1748805,-3.6053408,N/A
+Colegio Mayor Alsajara,"C. Arandas, 3, Granada",4.6,87,,OPERATIONAL,37.1796341,-3.601262499999999,True
+Colegio Mayor Universitario Cardenal Cisneros,"Calle Neptuno, 5, Granada",3.8,91,,OPERATIONAL,37.1696846,-3.6064273,True
+Colegio Mayor Albayzín,"Av. de Fuente Nueva, n°5, Granada",4.7,95,,OPERATIONAL,37.179676,-3.6073686,False
+Centro Privado de Enseñanza Progreso,"Camino de la Zubia, 0, Granada",1.0,2,,OPERATIONAL,37.1646628,-3.596588699999999,N/A
+CEIP Sancho Panza,"C. Sancho Panza, s/n, Granada",4.7,7,,OPERATIONAL,37.1622177,-3.5894319,False
+Solidaridad Don Bosco,"C. Almuñécar, 9, Granada",5.0,2,,OPERATIONAL,37.1589256,-3.6030814,False
+San Agustin's School,"Calle Dr. Barraquer, 4, Granada",4.2,45,,OPERATIONAL,37.1877958,-3.6080474,N/A
+San Juan Bosco Salesian College,"C. Almuñécar, 9, Granada",4.1,158,,OPERATIONAL,37.1588527,-3.6037254,True
+CEIP Federico García Lorca,"C. Poeta César Vallejo, 6, Granada",3.7,12,,OPERATIONAL,37.1594514,-3.5904472,False
+CEIP Vicente Aleixandre,"C. Beethoven, 6, Granada",4.0,18,,OPERATIONAL,37.158303,-3.6051602,False
+Colegio Inmaculada Niña,"Cam. Bajo de Huétor, 49, Granada",4.2,30,,OPERATIONAL,37.1594103,-3.588444299999999,False
+Colegio Santa Marta,"C. Concha Espina, 20, Granada",4.3,10,,OPERATIONAL,37.1574451,-3.6012546,False
+Colegio Compañía de María de Granada,"nº10bis, Av. de Andalucía, Granada",3.8,33,,OPERATIONAL,37.18818,-3.612212,N/A
+Ave Maria College San Isidro,"C. Concepción Arenal, 20, Granada",4.7,63,,OPERATIONAL,37.1915932,-3.6049735,False

@@ -1,0 +1,61 @@
+name,address,rating,user_ratings_total,price_level,business_status,lat,lng,open_now
+Lidl,"Calle Evangelista, 53, Sevilla",4.3,1530.0,,OPERATIONAL,37.38065799999999,-6.005354999999999,True
+Supermercados El Jamón,"Calle Jerónimo Hernández, 10, Sevilla",3.8,113.0,,OPERATIONAL,37.3946533,-5.9910545,True
+Supermercado Carrefour Express,"Calle Harinas, 7, 9, Sevilla",4.0,597.0,,OPERATIONAL,37.3871417,-5.9955361,True
+Carrefour Express,"Calle Sierpes, 20, Sevilla",3.9,679.0,,OPERATIONAL,37.3915015,-5.994812100000001,True
+Carrefour Express,"Calle Puente y Pellón, 21, Sevilla",3.9,800.0,,OPERATIONAL,37.3910278,-5.992322199999999,True
+Carrefour Express,"Calle Sauceda, 5, Sevilla",3.8,475.0,,OPERATIONAL,37.3918837,-5.9974627,True
+Carrefour Express,"Plaza de la Alfalfa, 4, Sevilla",4.0,857.0,,OPERATIONAL,37.39020540000001,-5.990322099999999,True
+Supermercados Dia,"Calle Cabeza del Rey Don Pedro, 9, Sevilla",3.9,478.0,,OPERATIONAL,37.3902617,-5.989423299999999,True
+Supermercados Dia,"Plaza de la Gavidia, 3, Sevilla",3.9,198.0,,OPERATIONAL,37.39472749999999,-5.997463099999999,False
+Mercadona,"Complejo Inmobiliario Pza. De Armas, s/n, Sevilla",4.2,3437.0,,OPERATIONAL,37.39276,-6.0030582,True
+Carrefour Express,"Calle Feria, 1-3, Sevilla",3.8,420.0,,OPERATIONAL,37.39546960000001,-5.991458300000001,False
+Supermercado Carrefour Express,"Calle Amor de Dios, 45, Sevilla",4.0,299.0,,OPERATIONAL,37.396494,-5.9940599,True
+Supermercados Dia,"Calle Pagés del Corro, 104, Sevilla",3.9,213.0,,OPERATIONAL,37.3828261,-6.0034011,True
+Supermercados El Jamón,"Calle la Florida, 15, Sevilla",4.0,24.0,,OPERATIONAL,37.3879507,-5.9844696,True
+Supermercados Dia,"Alameda de Hercules 17, Santa Ana, 5, esq, Sevilla",3.9,168.0,,OPERATIONAL,37.3973478,-5.9944853,True
+Supermercados Dia,"Plaza Monte Sión, 4, Sevilla",3.8,522.0,,OPERATIONAL,37.3968582,-5.990641800000001,True
+Horno San Marcos,"Plaza San Marcos, 2, Sevilla",4.4,93.0,1.0,OPERATIONAL,37.396263,-5.987868,True
+Mercadona,"Calle Salado, s/n, Sevilla",4.1,3074.0,,OPERATIONAL,37.379821,-5.9996,True
+SUPERMERCADO ECOLOGICO HERBOTECA HERBORISTERIA,"Calle Evangelista, 29, Sevilla",4.7,67.0,,OPERATIONAL,37.38193629999999,-6.0039436,False
+MAS,"Calle San Jacinto, 55-57, Sevilla",3.9,305.0,,OPERATIONAL,37.3829757,-6.006074300000001,True
+Supermercados Dia,"Calle Castilla, 119, Sevilla",3.9,260.0,,OPERATIONAL,37.3886665,-6.008458099999999,False
+Supermercados Dia,"C/Gonzalo de Bilbao, 4, Sevilla",3.9,281.0,,OPERATIONAL,37.3928537,-5.983552899999999,True
+ALDI,"Calle Virgen de Setefilla, 3, Sevilla",4.3,752.0,1.0,OPERATIONAL,37.37854169999999,-5.9993674,True
+Supermercados Dia,"Calle Luis Montoto, 26, Sevilla",3.9,287.0,,OPERATIONAL,37.3876677,-5.9817116,True
+Carrefour Express,"Calle, Ronda de Triana, 2, Sevilla",3.8,548.0,,OPERATIONAL,37.38895100000001,-6.0106402,True
+Supermercados Dia,"Calle Aracena, 4, Sevilla",3.9,444.0,,OPERATIONAL,37.3846311,-6.0103968,True
+Supermercados Dia,"Avenida de la República Argentina, 27, Sevilla",4.1,394.0,,OPERATIONAL,37.37741539999999,-6.002516499999999,True
+Mercadona,"Calle Juan Antonio Cavestany, 19, Sevilla",4.2,2328.0,,OPERATIONAL,37.39067,-5.979911999999999,True
+Supermercados El Jamón,"Avenida Santa Cecilia, 15, Sevilla",3.8,29.0,,OPERATIONAL,37.38252850000001,-6.009521599999999,True
+La única,"Calle Amargura, 6, Sevilla",4.7,45.0,,OPERATIONAL,37.3998856,-5.9907808,False
+Carrefour Express,"Calle Asunción, 17, Sevilla",3.9,242.0,,OPERATIONAL,37.3780855,-5.997580500000001,True
+Lidl,"Calle Virgen de Loreto, 35, Sevilla",4.1,1137.0,,OPERATIONAL,37.375627,-5.999452999999999,True
+Supermercados El Jamón,"Calle Evangelista, 50, Sevilla",3.8,71.0,,OPERATIONAL,37.3791751,-6.007491300000001,True
+MAS&Go,"Calle Arjona, 11, Sevilla",3.9,220.0,,OPERATIONAL,37.38904610000001,-6.0020349,True
+MAS,"Avenida de Menéndez Pelayo, 50, Sevilla",3.9,704.0,,OPERATIONAL,37.3873267,-5.9849801,True
+Mini Market Asiático,"Calle Méndez Núñez, 15, Sevilla",2.7,23.0,,OPERATIONAL,37.3892415,-5.9963716,True
+Carrefour Express,"Calle Zaragoza, 31, Sevilla",4.4,60.0,,OPERATIONAL,37.38837790000001,-5.997025799999999,True
+PrimaPrix Sevilla Sagasta,"Calle Sagasta, 16, b, Sevilla",4.5,143.0,,OPERATIONAL,37.3902113,-5.993777299999999,True
+La Despensa del Arenal,"Antonia Díaz, 2, Sevilla",4.1,157.0,,OPERATIONAL,37.3864712,-5.9965651,True
+MAS,"Cuesta del Rosario, 4, Sevilla",3.9,524.0,,OPERATIONAL,37.38969109999999,-5.992062,True
+MAS,"Calle San Pablo, 20, Sevilla",4.0,846.0,,OPERATIONAL,37.3897493,-5.9992652,True
+Minimarket Bailén,"Calle Bailén, 18, local 3~4, Sevilla",4.2,6.0,,OPERATIONAL,37.39109279999999,-5.998572299999998,True
+Carrefour Express,"Antonia Díaz, 31, Sevilla",4.0,211.0,,OPERATIONAL,37.38531049999999,-5.997862499999999,True
+Golden Corral Buffet & Grill,"Calle Julio César, 14, Sevilla",3.7,3.0,,OPERATIONAL,37.3900789,-6.000773499999999,True
+Supermercado Hong Xiang,"Calle Muñoz y Pabón, 15, Sevilla",4.6,8.0,,OPERATIONAL,37.3886622,-5.989783,True
+ALDI,"Plaza del Duque de la Victoria, 13, Sevilla",4.2,1045.0,,OPERATIONAL,37.39325869999999,-5.995390299999999,True
+Hortalizas Del Guadalquivir S L U,"Carretera Malaga-granada (Mercasevilla), S/N, Sevilla",,,,OPERATIONAL,37.3890074,-6.001422,N/A
+Atocha Mini Mercado,"Calle Mateos Gago, 17, Sevilla",3.7,36.0,,OPERATIONAL,37.3862855,-5.9902719,True
+Bazar Supermercado,"Calle Alfonso XII, 23, Sevilla",4.7,6.0,,OPERATIONAL,37.39293,-5.998414899999999,True
+MAS,"Calle Arjona, 21, Sevilla",3.4,27.0,,OPERATIONAL,37.3879365,-6.001731899999999,True
+Carrefour Express,"Plaza Zurbarán, 4, Sevilla",4.3,52.0,,OPERATIONAL,37.39397549999999,-5.992691,True
+MAS&Go,"Plaza de la Gavidia, 1, Sevilla",4.0,221.0,,OPERATIONAL,37.3945525,-5.996952299999999,True
+Minimercado de alimentación,"Puente del Cristo de la Expiración, 1, Sevilla",4.6,27.0,,OPERATIONAL,37.39040749999999,-6.003169,N/A
+Supermercados DIA,"Avenida Paseo de Cristina, 3, Sevilla",4.4,18.0,,OPERATIONAL,37.38194,-5.994999999999999,True
+Carrefour Express,"Plaza del Altozano, 8, Sevilla",4.0,142.0,,OPERATIONAL,37.3848743,-6.0030331,True
+Bazar Y Alimentacion Mundo,"Calle Regina, 20, Sevilla",4.4,26.0,,OPERATIONAL,37.3949892,-5.9912724,True
+Carrefour Express,"Calle Cardenal Cervantes, 12, Sevilla",4.1,158.0,,OPERATIONAL,37.39168,-5.98726,True
+Semilleria Azafrán. Graciela,"Mercado de, Calle San Jorge, 6, Sevilla",4.3,3.0,,OPERATIONAL,37.3854759,-6.0038117,False
+Puerta de la carne market,"Calle Puerta de la Carne, Sevilla",5.0,2.0,,OPERATIONAL,37.3858863,-5.986850199999999,N/A
+Supermercado Wendy,"Calle Puerta de la Carne, 8, Sevilla",4.3,23.0,,OPERATIONAL,37.3856011,-5.986376599999999,True

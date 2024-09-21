@@ -1,0 +1,61 @@
+name,address,rating,user_ratings_total,price_level,business_status,lat,lng,open_now
+Primary School Saint Roch Alicante,"Calle de, C. de la Villavieja, 37, Alicante",4.5,13,,OPERATIONAL,38.3465861,-0.4780831,True
+Colegio San Antonio de Padua,"Pl. San Antonio, 1, Alicante",4.1,12,,OPERATIONAL,38.3511539,-0.4874464,True
+Colegios Franciscanos,"Pl. San Antonio, Alicante",5.0,1,,OPERATIONAL,38.3516431,-0.4872147,N/A
+Colegio Nuestra Señora del Remedio,"P.º de Campoamor, 4, Alicante",4.1,44,,OPERATIONAL,38.353481,-0.4856667999999999,True
+C.E.I.P. Ramon Llull,"C. Sta. Felicitas, 8, Alicante",3.8,20,,OPERATIONAL,38.3491142,-0.4942426,N/A
+"Col·legi Santíssim Sacrament FEYDA. Centre catòlic concertat d'Infantil, Primària i Secundària","C. Nou D'Octubre, 1, Alicante",4.4,25,,OPERATIONAL,38.3561453,-0.4846281,True
+CEIP Pràctiques La Aneja,"Carrer Catedràtic Jaume Mas i Porcel, 1, Alacant",4.6,32,,OPERATIONAL,38.3514079,-0.4935305,N/A
+Colegio San José Alicante,"C. Martos, 7, Alicante",3.2,40,,OPERATIONAL,38.35769459999999,-0.4811945999999999,True
+Colegio San Juan de La Cruz,"C/ Gral. Espartero, 6, Alicante",4.4,16,,OPERATIONAL,38.3577852,-0.4828796,True
+Centro Privado de Enseñanza Sagrada Familia,"C. Francisco Carratalá Cernuda, 13, Alicante",3.9,53,,OPERATIONAL,38.3575993,-0.4863517000000001,True
+A.M.P.A. COLEGIO SAGRADA FAMILIA JOSEFINAS,"C. Francisco Carratalá Cernuda, 13, Alicante",4.3,38,,OPERATIONAL,38.3575993,-0.4863517000000001,N/A
+CEIP Joaquín Sorolla,"Carrera Albacete, 2, Alacant",4.6,22,,OPERATIONAL,38.3505419,-0.4973455000000001,N/A
+CEIP Benalua,"Carrer Dr. Just, 70, Alacant",4.3,19,,OPERATIONAL,38.3384836,-0.4974185,True
+Colegio Diocesano San Juan Bautista,"Benalúa, C. Alberola, 44, Alicante",4.3,43,,OPERATIONAL,38.3400302,-0.4991934,True
+Colegio Concertado de Enseñanza San José de Carolinas,"Carrer Garbinet, 87, Alacant",3.9,39,,OPERATIONAL,38.3601709,-0.4803657,True
+CEIP San Nicolás de Bari,"C. Gral. Ros de Olano, 20, Alicante",4.8,9,,OPERATIONAL,38.3608067,-0.4858567,True
+CEIP Sant Doménec,"Plaza Foguerer Tomás Valcárcel Deza, 10, Alicante",4.7,23,,OPERATIONAL,38.3483108,-0.5019251,N/A
+Colegio Concertado Plurilingüe Calasancio Alicante,"Avinguda de Dénia, 82, Alacant",4.2,272,,OPERATIONAL,38.3585468,-0.4680017,True
+CEIP San Fernando,"C. Cdad. Real, 33, Alicante",4.2,19,,OPERATIONAL,38.354961,-0.4991231,True
+Colegio La Purísima y San Francisco,"C. Padre Recaredo de Los Rios, Alicante",3.4,58,,OPERATIONAL,38.3488941,-0.5033506999999999,True
+Colegio de farmacéuticos de la provincia de Alicante,"C. Jorge Juan, 8, Alicante",4.1,45,,OPERATIONAL,38.34551,-0.4801649,True
+C.E.I.P. Prácticas-La Aneja,"C. San Fernando, 0, Alicante",0.0,0,,OPERATIONAL,38.3430218,-0.4849203,N/A
+Colegio,"Carrer Arquebisbe Loaces, 6, 8, Alacant",4.0,1,,OPERATIONAL,38.3410626,-0.4881800000000001,N/A
+Colegio Internacional Alicante - Spanish Language School,"Carrer Pintor Aparicio, 18 C, 1ºA, Alacant",4.6,42,,OPERATIONAL,38.3405041,-0.4906988,True
+Colegio de Agente Comercial,"Carrer Turina, 6, Alacant",4.0,1,,OPERATIONAL,38.3532741,-0.474678,N/A
+CEIP Campoamor,"de, P.º de Campoamor, 1, Alacant",3.9,11,,OPERATIONAL,38.3550628,-0.4870137,N/A
+Primary School Manjón Cervantes Alicante,"C. Montero Ríos, 2, Alicante",3.8,22,,OPERATIONAL,38.35727139999999,-0.4817638,N/A
+CEIP el Tossal,"C. Juanito Santero, 3, Alicante",4.0,12,,OPERATIONAL,38.3531003,-0.4963527,N/A
+Primary School José Carlos Aguilera Alicante,"C. Metge Pedro Herrero, 0, Alacant",4.2,21,,OPERATIONAL,38.3436621,-0.5008697,True
+CEIP Nou Sant Blai,"Av. Dr. Rico, 11, Alicante",4.9,20,,OPERATIONAL,38.3532842,-0.4982798,N/A
+Colegio Sagrados Corazones de Alicante,"Cam. Cruz de Piedra, 21, Alicante",4.1,41,,OPERATIONAL,38.3605929,-0.4679189,True
+Colegio de Foment Altozano,"Av. Isla de Corfú, 2, Alicante",4.8,112,,OPERATIONAL,38.3552978,-0.5021306,True
+Primary School Gabriel Miró Alicante,"Carrer del Professor David Noguera, 2, Alacant",3.3,32,,OPERATIONAL,38.3466412,-0.5062002999999999,True
+CEIP Mora Puchol,"C. Farmacéutico Luís Gisbert, 4, Alicante",3.9,16,,OPERATIONAL,38.3382641,-0.5048114,N/A
+Colegio Don Bosco - Salesianos Alicante,"Av. Vicente Blasco Ibañez, 1, Alicante",4.2,103,,OPERATIONAL,38.3523925,-0.5050694,True
+CEIP Azorín,"C/ Biòleg Konrad Lorenz, 5, Alacant",3.7,22,,OPERATIONAL,38.363686,-0.4705667,True
+Colegio Sagrado Corazón HH. Maristas,"Av. Isla de Corfú, 5B, Alicante",4.1,74,,OPERATIONAL,38.3553977,-0.5036902999999999,True
+Centro Concertado de Enseñanza Inmaculada Jesuitas,"Avinguda de Dénia, 98, Alacant",4.2,85,,OPERATIONAL,38.3608451,-0.4637556,True
+CEIP Oscar Esplá,"Pl. de la Libertad, 1, Alicante",4.5,18,,OPERATIONAL,38.3659335,-0.4941020999999999,True
+Colegio Santa Teresa Vistahermosa,"C. Cruz de Piedra, 1, Alicante",4.5,78,,OPERATIONAL,38.3634575,-0.4627013,True
+Ilustre Colegio Provincial de la Abogacía de Alicante · Il·lustre Col·legi Provincial de l'Advocacia d'Alacant,"Carrer Gravina, 4, bajo, Alacant",4.0,82,,OPERATIONAL,38.3449482,-0.4802209,False
+Colegio Notarial de Valencia. Delegación de Alicante,"C. Bailen, 25, Alacant",4.8,58,,OPERATIONAL,38.3453439,-0.484673,False
+Colegio Territorial De Arquitectos De Alicante,"Pl. Gabriel Miró, 2, Alicante",4.6,31,,OPERATIONAL,38.343378,-0.4845900999999999,False
+Beauty School Alicante,"Av. de Ramón y Cajal, 13, Alicante",5.0,1,,OPERATIONAL,38.3392096,-0.4894039,False
+Colegio Sgda Familia En Alicante Siervas de San José Prov San Agustín,"C. Francisco Carratalá Cernuda, 13, Alicante",4.0,1,,OPERATIONAL,38.3575925,-0.4863442,N/A
+CEIP 9 d'Octubre,"C. Pinoso, 27, Alicante",4.1,14,,OPERATIONAL,38.3596439,-0.480943,N/A
+Colegio San Jose De Carolinas Privado Concertado,"Carrer Garbinet, Alacant",3.3,3,,OPERATIONAL,38.3601088,-0.4806207,False
+Centre Privat D'Ensenyament Calasancio,"Avinguda de Dénia, 76, Alacant",4.3,6,,OPERATIONAL,38.3582731,-0.4683717,N/A
+CEIP Carlos Arniches,"C/ Alonso Cano, 19, Alacant",3.8,25,,OPERATIONAL,38.3638539,-0.4807249,N/A
+Centro Privado de Educación Infantil Gran Vía Parque Aventura,"L, Avenida Pintor Xavier Soler, 13, Alicante",4.8,48,,OPERATIONAL,38.3633033,-0.4669329,True
+CEIP Florida,"C. Pianista Gonzalo Soriano, 3, Alicante",4.5,18,,OPERATIONAL,38.3398191,-0.5090217,N/A
+Colegio Diocesano Nuestra Señora de los Ángeles,"C. Pardo Bazán, 8, Alicante",4.3,13,,OPERATIONAL,38.3659672,-0.4949455,True
+"Colegio Concertado Santa María del Carmen, de Alicante","C. Madre Elisea Oliver, 2, Alicante",3.7,46,,OPERATIONAL,38.3624503,-0.5014601,True
+Salesians d'Alacant - Escola Maria Auxiliadora,"Av. Isla de Corfú, nº7, Alicante",3.7,60,,OPERATIONAL,38.3575226,-0.5074076,True
+Colegio Jesús-María,"Carrer d'Algol, 33, Alacant",4.7,58,,OPERATIONAL,38.3477233,-0.5138961,True
+Primary School Rafael Altamira Alicante,"C. Sociedad Cultural Deportiva Betis Florida, s/n, Alicante",4.5,21,,OPERATIONAL,38.3407202,-0.5146338,N/A
+Col·legi Sant Agustí,"C. Pintor Pedro Camacho, 2, Alicante",4.3,95,,OPERATIONAL,38.3715468,-0.4759525,True
+Centro Privado de Enseñanza Médico Pedro Herrero,"C. Víctor de la Serna, 37, Alicante",4.3,46,,OPERATIONAL,38.3497262,-0.5163681999999999,True
+CEIP El Palmerar,"Carrer Portet de Moraira, 2, Alacant",4.7,14,,OPERATIONAL,38.3309308,-0.5123227000000001,True
+Colegio Ángel de la Guarda,"C/ Andalusia, 17- 20, Alacant",4.2,84,,OPERATIONAL,38.366692,-0.45439,True

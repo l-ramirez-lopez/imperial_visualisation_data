@@ -1,0 +1,61 @@
+name,address,rating,user_ratings_total,price_level,business_status,lat,lng,open_now
+Col·legi Sant Josep de Calassanç,"Carrer Ruperto Chapí, 17, Elx",4.0,6,,OPERATIONAL,38.266376,-0.7033168,True
+CEIP Miguel de Unamuno,"Passeig de les Germanies, 32, Elx",3.8,13,,OPERATIONAL,38.2620617,-0.7026981999999999,True
+Col·legi Públic Ferrández Cruz,"Carrer l'Alpuixarra, 11, Elx",3.4,13,,OPERATIONAL,38.2676553,-0.694153,True
+CEIP Luis Cernuda,"Carrer Nuestra Señora de la Cabeza, 3, Elx",4.6,12,,OPERATIONAL,38.2694321,-0.6952902,N/A
+CEIP Hispanitat,"C/ Curtidors, 7, Elx",4.5,13,,OPERATIONAL,38.2620262,-0.6935458,True
+CEIP Baix Vinalopó,"Carrer Dr. Caro, 84, Elx",3.9,27,,OPERATIONAL,38.2706949,-0.7006292,True
+Col·legi Santa Maria Filles de Jesús,"Avinguda en Joan Carles I, 30, Elx",3.6,52,,OPERATIONAL,38.2663891,-0.6919531999999999,True
+CEIP Candalix,"Carrer Nuestra Señora de la Cabeza, 5, Elx",4.6,12,,OPERATIONAL,38.2702445,-0.6955366,False
+Col·legi Sant Rafael - Salesians Elx,"Carrer Porta de la Morera, 24, Elx",4.5,41,,OPERATIONAL,38.26311889999999,-0.6910335,True
+CEIP Verge de l’Assumpció,"Carrer del Capità Antoni Mena, 31, Elx",4.6,14,,OPERATIONAL,38.2650765,-0.7078049,True
+CEIP Reyes Católicos,"Carrer Fray Luis de León, 9, Elx",3.9,10,,OPERATIONAL,38.258575,-0.6965918999999999,True
+CEIP el Palmeral,"Carrer l'Avet, 2, Elx",4.2,24,,OPERATIONAL,38.262741,-0.6885753,True
+Centro Concertado Lope De Vega,"C. Rafael Sánchez Ceva, 8, Elche",4.5,33,,OPERATIONAL,38.273368,-0.7025965,True
+CEIP Francisco Giner de los Ríos,"Plaça de Barcelona, 7, Elx",4.9,14,,OPERATIONAL,38.2723587,-0.7062786,True
+Col·legi Públic Francesc Cantó,"Carrer Pedro Moreno Sastre, 34, Elx",4.6,8,,OPERATIONAL,38.2705401,-0.7103916,True
+CEIP León Felipe,"Carrer Arístides Botella Torres, 1, Elx",4.5,17,,OPERATIONAL,38.2699367,-0.7109040000000001,True
+Col·legi Públic L'Alcúdia,"C. Pere Joan Perpinyà, 83, Elx",4.3,24,,OPERATIONAL,38.2590512,-0.7102529,True
+Col·legi Públic Dama d'Elx,"Carrer Antonio Moya Albaladejo, 23, Elx",4.5,11,,OPERATIONAL,38.2552799,-0.7051739,True
+CEIP Ramon Llull,"Av. de la Llibertat, Elx",4.7,15,,OPERATIONAL,38.2643346,-0.7135389999999999,True
+CEIP Jorge Guillén,"Carrer Enrique Pire García, 55, Elx",4.4,17,,OPERATIONAL,38.2562152,-0.7089131,True
+Oscillon School,"Carrer de les Ànimes, 10, primer piso, Elche",0.0,0,,OPERATIONAL,38.2662123,-0.6983401,False
+High School English,"Carrer Mestre Serrano, 27 - AC, Elx",4.6,5,,OPERATIONAL,38.263515,-0.702309,False
+Centro Privado de Enseñanza Santa María,"Avinguda Rei, Avinguda en Joan Carles I, 30, Elx",0.0,0,,OPERATIONAL,38.2684435,-0.6935021,N/A
+Escuela Infantil Bilingüe Doodles,"Carrer Concepción Arenal, 73, Elx",4.8,6,,OPERATIONAL,38.2641593,-0.7074347999999999,True
+Centro privado de enseñanza San José,"Carrer Arturo Salvetti Pardo, 29, Elx",3.5,2,,OPERATIONAL,38.274132,-0.7075091,False
+CEIP Ausiàs March,"Calle Sociedad El Despertar Femenino, 2, Elche",3.1,7,,OPERATIONAL,38.27605,-0.7038027,True
+CEIP Luis Vives,"C/ Pablo Picasso, 96, Elx",4.5,14,,OPERATIONAL,38.2543145,-0.7044246,True
+CEIP Mediterrani,"Carrer Antonio Segarra Rodriguez, 2, Elx",4.4,10,,OPERATIONAL,38.2668097,-0.6842404,N/A
+CEIP Casablanca,"Carrer el Despertament Femeni, Elx",3.8,8,,OPERATIONAL,38.2765832,-0.7035739,True
+CEIP Mariano Benlliure,"C. Pere Joan Perpinyà, 85, Elx",4.4,17,,OPERATIONAL,38.2591053,-0.7122701,True
+CEIP El Pla,"Calle Alquería de Aznar, nº2, Elche",4.5,15,,OPERATIONAL,38.2547281,-0.7074056,True
+Col·legi Fundación Mediterráneo,"Carrer Antonio Ramos Carratalá, 1, Elx",4.5,17,,OPERATIONAL,38.2707453,-0.7132077,True
+Colegio San Fernando,"Carrer Pío Baroja, 22, Elx",4.9,26,,OPERATIONAL,38.2673432,-0.6834114000000001,True
+COLEGIO CONCERTADO SAN JOSE,"Carrer Antonio García Cayuelas, 18, Elx",5.0,1,,OPERATIONAL,38.2740897,-0.7108899,True
+CEIP Víctor Pradera,"Carrer Bernabé del Campo Latorre, 13, Elx",2.9,29,,OPERATIONAL,38.27298469999999,-0.6852393,True
+Colegio Concertado de Ed. Infantil y Primaria Academia Luis Vives,"Carrer Emilio Hernández Selva, 30, Elx",4.8,32,,OPERATIONAL,38.2723671,-0.7137692,True
+C.E.I.P. Menéndez Pelayo,"Carrer Carlos Antón Pastor, 6, Elx",4.2,18,,OPERATIONAL,38.2779005,-0.7092134,True
+Col·legi Públic El Toscar,"Carrer Manuel Campello Ruiz, 13, Elx",4.4,14,,OPERATIONAL,38.2720474,-0.7162208,N/A
+CEIP Miguel de Cervantes,"Avinguda de la Universitat d'Elx, 50, Elche",4.1,9,,OPERATIONAL,38.2737907,-0.6830666,True
+CEIP Julio M. López Orozco,"Av. de las Cortes Valencianas, 18, Elche",4.3,13,,OPERATIONAL,38.27012939999999,-0.7180160999999999,True
+Ilustre Colegio de Abogados de Elche,"Carrer Mestre Alfred Javaloyes, 6, Elx",4.2,45,,OPERATIONAL,38.2669093,-0.6977899,N/A
+SJC San José de Calasanz,"Carrer del Marquès d'Asprella, 56, Elx",5.0,1,,OPERATIONAL,38.2697208,-0.7023840000000001,N/A
+Colegio Av de la Libertad,"Av. de la Llibertat, Elx",0.0,0,,OPERATIONAL,38.2673505,-0.7091069999999999,N/A
+Colegio La Alcudia,"C. Antonio Pascual Quiles, 92, Elx",0.0,0,,OPERATIONAL,38.2584956,-0.7111837999999999,N/A
+CEE Tamarit,"Carrer Magraner, 36-40, Elx",4.4,7,,OPERATIONAL,38.2649567,-0.6835626,N/A
+Escuela Infantil Municipal Rosa Fernández,"C/ Taronger, 47, Elx",5.0,10,,OPERATIONAL,38.2628862,-0.6796763,True
+CEIP Vicente Blasco Ibáñez,"Avinguda de les Corts Valencianes, 20, Elche",4.6,13,,OPERATIONAL,38.2695323,-0.718943,True
+CEIP Jaume Balmes,"Carrer Alfredo Sánchez Torres, 10, Elx",4.4,19,,OPERATIONAL,38.27800500000001,-0.7117259,True
+CEIP Jaume I,"Carrer Manuel Campello Ruiz, 0, Elx",4.0,14,,OPERATIONAL,38.2739826,-0.7164712999999999,True
+CEIP Les Arrels,"Carrer Tamarit, 4, Elx",4.8,12,,OPERATIONAL,38.2641134,-0.6781699999999999,True
+CEIP Eugeni d'Ors,"Carrer Alfredo Sánchez Torres, 10, Elx",4.5,19,,OPERATIONAL,38.278467,-0.7119725,True
+CEIP Miguel Hernández,"Av. de Santa Pola, S/N, Elche",3.3,3,,OPERATIONAL,38.2622005,-0.6781548,True
+Salesians Elx | Col·legi Sant Josep Artesà,"Av. de Don Bosco, 14, Elche",4.3,38,,OPERATIONAL,38.2512985,-0.712712,False
+CEIP Clara Campoamor,"Av. U.N.E.S.C.O, 3, Elche",3.8,19,,OPERATIONAL,38.276197,-0.6811919,True
+Escola Infantil de Primer Cicle Aitana,"Carrer Almansa, 29, Elx",3.4,10,,OPERATIONAL,38.2794724,-0.7172375999999999,True
+La Devesa School Elche - Colegio,"Carrer Joan Fuster, 13, Elx",3.9,77,,OPERATIONAL,38.2684707,-0.6723681,True
+Col·legi Nostra Senyora del Carmen,"Cam. de Matola, km 2, Elche",4.1,34,,OPERATIONAL,38.2476055,-0.7184478999999999,True
+Colegio Carmelitas Misioneras Teresianas,Elche,4.3,6,,OPERATIONAL,38.2478047,-0.7187393,N/A
+Escuela Infantil Bilingüe Lysmon Altabix Elche,"Avinguda de la Universitat d'Elx, 37, Elche",5.0,17,,OPERATIONAL,38.2729518,-0.6709029000000001,True
+CEIP la Galia,"Partida Altabix, 174, polígono 1, Elx",2.9,9,,OPERATIONAL,38.2863952,-0.6856422,True
