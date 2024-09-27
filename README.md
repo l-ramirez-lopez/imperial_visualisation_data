@@ -1,4 +1,6 @@
-# Data for final project on Data Analytics and Visualisation for Business
+# Data for final project on Real Estate Analytics 
+
+## Data Analytics and Visualisation for Business
 
 _Nicolas Forster; Kasra Khani; Flaviano Moreira; Leonardo Ramirez-Lopez; Mark Shahbazi_
 
